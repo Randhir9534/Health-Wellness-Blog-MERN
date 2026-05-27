@@ -1,0 +1,13 @@
+.blog-detail-container {
+  padding-top: 40px;
+}
+
+.blog-content {
+  margin-top: 20px;
+  line-height: 1.6;
+}
+
+.blog-card {
+  min-height: 200px;
+  
+}
